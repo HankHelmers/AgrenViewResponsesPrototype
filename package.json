@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4",
+    "webpack-tools": "^1.0.7"
+  },
+  "dependencies": {
+    "firebase": "^10.8.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
