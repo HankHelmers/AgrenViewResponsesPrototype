@@ -103,6 +103,7 @@ mapOfEvolution.set(6, 'non_selfish_elements')
 const setupChart = async () => {
     const result = await initializeDatasets()
 }
+
 setupChart();
 
 function initializeDatasets() {
