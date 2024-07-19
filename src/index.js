@@ -19,8 +19,8 @@ const firebaseConfig = {
     storageBucket: "williamson-surveying-tool.appspot.com",
     messagingSenderId: "860294126553",
     appId: "1:860294126553:web:470b32b4f0162c98fc57c8",
-    measurementId: "G-CXJ9TJRR0Q",
-};
+    measurementId: "G-CXJ9TJRR0Q"
+  };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
